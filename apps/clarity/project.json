@@ -18,7 +18,8 @@
         "inlineStyleLanguage": "scss",
         "assets": ["apps/clarity/src/favicon.ico", "apps/clarity/src/assets"],
         "styles": [
-          "apps/clarity/src/styles.scss"],
+          "apps/clarity/src/styles.scss",
+          "apps/clarity/node_modules/@clr/ui/clr-ui.min.css"],
         "scripts": []
       },
       "configurations": {
