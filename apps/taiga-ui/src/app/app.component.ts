@@ -14,4 +14,7 @@ import { RouterOutlet } from '@angular/router';
 })
 export class AppComponent {
   title = 'taiga-ui';
+
+  // this will process the file talks.json
+
 }
